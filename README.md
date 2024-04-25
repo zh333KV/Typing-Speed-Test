@@ -1,6 +1,6 @@
 WEB 
 
-https://zh333kv.github.io/typing-speed-test
+https://zh333kv.github.io/Typing-Speed-Test/
   
 
   
